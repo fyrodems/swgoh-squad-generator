@@ -25,15 +25,15 @@ def parse_page(html):
         
         # Check if 'relic-badge' element exists
         relic_level_elem = section.find('div', class_='relic-badge')
-        relic_level = relic_level_elem.text.strip() if relic_level_elem else 'Undefined'
+        relic_level = relic_level_elem.text.strip() if relic_level_elem else 'None'
         
         # Check if 'character-portrait__zeta' element exists
         zeta_level_elem = section.find('div', class_='character-portrait__zeta')
-        zeta_level = zeta_level_elem.text.strip() if zeta_level_elem else 'Undefined'
+        zeta_level = zeta_level_elem.text.strip() if zeta_level_elem else 'None'
         
         # Check if level element exists
         level_elem = section.find('div', class_='character-portrait__level')
-        level = level_elem.text.strip() if level_elem else 'Undefined'
+        level = level_elem.text.strip() if level_elem else '85'
         
         # Get completion percentage if available
         completion_elem = section.find('div', class_='progress-bar')
@@ -41,11 +41,12 @@ def parse_page(html):
         
         # Get gear level if available
         gear_elem = section.find('div', class_='character-portrait__gframe')
-        gear_level = gear_elem['class'][-1].split('-')[-1] if gear_elem else 'Undefined'
+        gear_level = gear_elem['class'][-1].split('-')[-1] if gear_elem else '13'
 
         # Count number of stars if available
         stars_elem = section.find_all('div', class_='rarity-range__star')
-        stars_count = len(stars_elem)
+        # stars_count = len(stars_elem)
+        stars_count = sum(1 for star in stars_elem if 'rarity-range__star--inactive' not in star.get('class', []))
         
         # Add character information to the list
         characters.append({
