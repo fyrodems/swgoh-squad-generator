@@ -2,67 +2,85 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-def scrapuj_dane(url):
+def fetch_data(url):
     response = requests.get(url)
     if response.status_code == 200:
         return response.text
     else:
-        print(f'Nie udało się pobrać strony. Kod odpowiedzi: {response.status_code}')
+        print(f'Failed to fetch the page. Response code: {response.status_code}')
         return None
 
-def analizuj_strone(html):
+def parse_page(html):
     soup = BeautifulSoup(html, 'html.parser')
     
-    # Znajdź sekcję z postaciami
-    sekcje_postaci = soup.find_all('div', class_='unit-card-grid__cell js-unit-search__result')
+    # Find the section with characters
+    character_sections = soup.find_all('div', class_='unit-card-grid__cell js-unit-search__result')
     
-    # Inicjalizacja listy na postacie
-    postacie = []
+    # Initialize list for characters
+    characters = []
     
-    # Przetwarzanie każdej postaci
-    for sekcja in sekcje_postaci:
-        nazwa_postaci = sekcja.find('div', class_='unit-card__name').text.strip()
+    # Process each character
+    for section in character_sections:
+        character_name = section.find('div', class_='unit-card__name').text.strip()
         
-        # Sprawdź, czy istnieje element z klasą 'relic-badge'
-        poziom_reliktu_elem = sekcja.find('div', class_='relic-badge')
-        poziom_reliktu = poziom_reliktu_elem.text.strip() if poziom_reliktu_elem else 'Nieokreślony'
+        # Check if 'relic-badge' element exists
+        relic_level_elem = section.find('div', class_='relic-badge')
+        relic_level = relic_level_elem.text.strip() if relic_level_elem else 'Undefined'
         
-        # Sprawdź, czy istnieje element z klasą 'character-portrait__zeta'
-        poziom_zeta_elem = sekcja.find('div', class_='character-portrait__zeta')
-        poziom_zeta = poziom_zeta_elem.text.strip() if poziom_zeta_elem else 'Nieokreślony'
+        # Check if 'character-portrait__zeta' element exists
+        zeta_level_elem = section.find('div', class_='character-portrait__zeta')
+        zeta_level = zeta_level_elem.text.strip() if zeta_level_elem else 'Undefined'
         
-        # Pobierz procent ukończenia, jeśli istnieje
-        procent_ukonczenia_elem = sekcja.find('div', class_='progress-bar')
-        procent_ukonczenia = procent_ukonczenia_elem['style'].split(':')[-1].strip('%;') if procent_ukonczenia_elem else 'Nieokreślony'
+        # Check if level element exists
+        level_elem = section.find('div', class_='character-portrait__level')
+        level = level_elem.text.strip() if level_elem else 'Undefined'
         
-        # Dodawanie informacji o postaci do listy
-        postacie.append({
-            'nazwa': nazwa_postaci,
-            'poziom_reliktu': poziom_reliktu,
-            'poziom_zeta': poziom_zeta,
-            'procent_ukonczenia': procent_ukonczenia
+        # Get completion percentage if available
+        completion_elem = section.find('div', class_='progress-bar')
+        completion_percentage = completion_elem['style'].split(':')[-1].strip('%;') if completion_elem else 'Undefined'
+        
+        # Get gear level if available
+        gear_elem = section.find('div', class_='character-portrait__gframe')
+        gear_level = gear_elem['class'][-1].split('-')[-1] if gear_elem else 'Undefined'
+
+        # Count number of stars if available
+        stars_elem = section.find_all('div', class_='rarity-range__star')
+        stars_count = len(stars_elem)
+        
+        # Add character information to the list
+        characters.append({
+            'name': character_name,
+            'relic_level': relic_level,
+            'zeta_level': zeta_level,
+            'level': level,
+            'completion_percentage': completion_percentage,
+            'gear_level': gear_level,
+            'stars_count': stars_count
         })
     
-    return postacie
+    return characters
 
 if __name__ == '__main__':
     url = 'https://swgoh.gg/p/172597111/characters'
-    html = scrapuj_dane(url)
+    html = fetch_data(url)
     if html:
-        postacie = analizuj_strone(html)
+        characters = parse_page(html)
         
-        # Konwertuj obiekty BeautifulSoup na standardowe typy Pythona
-        postacie_jsonable = []
-        for postac in postacie:
-            postacie_jsonable.append({
-                'nazwa': postac['nazwa'],
-                'poziom_reliktu': postac['poziom_reliktu'],
-                'poziom_zeta': postac['poziom_zeta'],
-                'procent_ukonczenia': postac['procent_ukonczenia']
+        # Convert BeautifulSoup objects to standard Python types
+        characters_jsonable = []
+        for character in characters:
+            characters_jsonable.append({
+                'name': character['name'],
+                'relic_level': character['relic_level'],
+                'zeta_level': character['zeta_level'],
+                'level': character['level'],
+                'completion_percentage': character['completion_percentage'],
+                'gear_level': character['gear_level'],
+                'stars_count': character['stars_count']
             })
         
-        # Zapisz wyniki do pliku JSON
-        with open('postacie.json', 'w', encoding='utf-8') as plik:
-            json.dump(postacie_jsonable, plik, ensure_ascii=False, indent=4)
+        # Save results to JSON file
+        with open('characters.json', 'w', encoding='utf-8') as file:
+            json.dump(characters_jsonable, file, ensure_ascii=False, indent=4)
         
-        print('Dane o postaciach zapisane do pliku postacie.json')
+        print('Character data saved to characters.json file')
