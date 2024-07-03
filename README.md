@@ -1,0 +1,1 @@
+# swgoh-squad-generator
