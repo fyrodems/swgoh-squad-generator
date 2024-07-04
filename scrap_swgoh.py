@@ -25,11 +25,15 @@ def parse_page(html):
         
         # Check if 'relic-badge' element exists
         relic_level_elem = section.find('div', class_='relic-badge')
-        relic_level = relic_level_elem.text.strip() if relic_level_elem else 'None'
+        relic_level = relic_level_elem.text.strip() if relic_level_elem else '0'
         
         # Check if 'character-portrait__zeta' element exists
         zeta_level_elem = section.find('div', class_='character-portrait__zeta')
-        zeta_level = zeta_level_elem.text.strip() if zeta_level_elem else 'None'
+        zeta_level = zeta_level_elem.text.strip() if zeta_level_elem else '0'
+
+        # Sprawdź, czy istnieje element z klasą 'character-portrait__omicron'
+        omicron_count_elem = section.find('div', class_='character-portrait__omicron')
+        omicron_count = omicron_count_elem.text.strip() if omicron_count_elem else '0'
         
         # Check if level element exists
         level_elem = section.find('div', class_='character-portrait__level')
@@ -53,6 +57,7 @@ def parse_page(html):
             'name': character_name,
             'relic_level': relic_level,
             'zeta_level': zeta_level,
+            'omicron_count': omicron_count,
             'level': level,
             'completion_percentage': completion_percentage,
             'gear_level': gear_level,
@@ -74,6 +79,7 @@ if __name__ == '__main__':
                 'name': character['name'],
                 'relic_level': character['relic_level'],
                 'zeta_level': character['zeta_level'],
+                'omicron_count':character['omicron_count'],
                 'level': character['level'],
                 'completion_percentage': character['completion_percentage'],
                 'gear_level': character['gear_level'],
@@ -81,7 +87,7 @@ if __name__ == '__main__':
             })
         
         # Save results to JSON file
-        with open('characters.json', 'w', encoding='utf-8') as file:
+        with open('data/characters.json', 'w', encoding='utf-8') as file:
             json.dump(characters_jsonable, file, ensure_ascii=False, indent=4)
         
         print('Character data saved to characters.json file')
