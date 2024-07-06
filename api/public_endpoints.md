@@ -1,17 +1,17 @@
 Base URL: https://swgoh.gg/
 
 Paths available:
-/api/units/
-/api/characters/
-/api/ships/
-/api/gear/
-/api/abilities/
-/api/stat-definitions/
-/api/datacron-affix-template-sets/
-/api/datacron-sets/
-/api/datacron-templates/
-/api/guild-profile/<guild_id>/
-/api/player/<ally_code>/
+https://swgoh.gg/api/units/
+https://swgoh.gg/api/characters/
+https://swgoh.gg/api/ships/
+https://swgoh.gg/api/gear/
+https://swgoh.gg/api/abilities/
+https://swgoh.gg/api/stat-definitions/
+https://swgoh.gg/api/datacron-affix-template-sets/
+https://swgoh.gg/api/datacron-sets/
+https://swgoh.gg/api/datacron-templates/
+https://swgoh.gg/api/guild-profile/<guild_id>/
+https://swgoh.gg/api/player/<ally_code>/ <!-- relic_tier -2 -->
 
 
 In case anyone wants a mapping from id to icon for player portraits. 
