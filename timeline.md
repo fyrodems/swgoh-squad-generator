@@ -8,5 +8,7 @@
    - dobór technologii
      - react
      - ios
-     - baza danych
+     - baza danych - postgre
+     - szukanie moliwości postawienia (delopy) całej aplikacji za darmo
+     
 2. Sierpień 2024
