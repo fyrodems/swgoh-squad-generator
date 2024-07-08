@@ -1,0 +1,2182 @@
+[
+    {
+        "name": "Jedi Master Kenobi",
+        "relic_level": "8",
+        "zeta_level": "6",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 95.4",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Rey",
+        "relic_level": "8",
+        "zeta_level": "6",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 95.4",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Supreme Leader Kylo Ren",
+        "relic_level": "8",
+        "zeta_level": "6",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 95.4",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Lord Vader",
+        "relic_level": "7",
+        "zeta_level": "6",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 91.22",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Sith Eternal Emperor",
+        "relic_level": "7",
+        "zeta_level": "6",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 91.22",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Darth Revan",
+        "relic_level": "9",
+        "zeta_level": "3",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 99.87",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "General Skywalker",
+        "relic_level": "8",
+        "zeta_level": "4",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 93.89",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Darth Malak",
+        "relic_level": "9",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 100",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Commander Luke Skywalker",
+        "relic_level": "7",
+        "zeta_level": "3",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 87.2",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Rey (Jedi Training)",
+        "relic_level": "7",
+        "zeta_level": "3",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 86.53",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Padmé Amidala",
+        "relic_level": "8",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 92.39",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Admiral Piett",
+        "relic_level": "8",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 92.26",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "HK-47",
+        "relic_level": "7",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 86.47",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Darth Vader",
+        "relic_level": "7",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 81.75",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Boba Fett",
+        "relic_level": "8",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 91.58",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Count Dooku",
+        "relic_level": "8",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 91.78",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Kylo Ren (Unmasked)",
+        "relic_level": "7",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 86.27",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Emperor Palpatine",
+        "relic_level": "7",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 86.19",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "General Kenobi",
+        "relic_level": "8",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 91.77",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Grand Master Yoda",
+        "relic_level": "8",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 85.89",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "General Grievous",
+        "relic_level": "7",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 85.59",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Shaak Ti",
+        "relic_level": "7",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 85.59",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Maul",
+        "relic_level": "5",
+        "zeta_level": "3",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 78.85",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Ben Solo",
+        "relic_level": "5",
+        "zeta_level": "3",
+        "omicron_level": "3",
+        "level": "85",
+        "completion_percentage": " 78.48",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "ARC Trooper",
+        "relic_level": "8",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 90.86",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Zam Wesell",
+        "relic_level": "7",
+        "zeta_level": "1",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 84.38",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Jango Fett",
+        "relic_level": "7",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 79.48",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Commander Ahsoka Tano",
+        "relic_level": "5",
+        "zeta_level": "3",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 77.91",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Grand Admiral Thrawn",
+        "relic_level": "6",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 80.57",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Nute Gunray",
+        "relic_level": "7",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 84.69",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Jedi Knight Revan",
+        "relic_level": "3",
+        "zeta_level": "3",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 73.75",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "BB-8",
+        "relic_level": "7",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 79.05",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Jedi Knight Anakin",
+        "relic_level": "7",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 85.09",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "CT-21-0408 \"Echo\"",
+        "relic_level": "7",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 84.99",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Sith Trooper",
+        "relic_level": "7",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 84.86",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Mace Windu",
+        "relic_level": "3",
+        "zeta_level": "3",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 72.35",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Bossk",
+        "relic_level": "5",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 76.41",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Kylo Ren",
+        "relic_level": "7",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 84.6",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Darth Sidious",
+        "relic_level": "7",
+        "zeta_level": "1",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 84.34",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Wat Tambor",
+        "relic_level": "7",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 84.21",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "R2-D2",
+        "relic_level": "5",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 77.34",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Darth Maul",
+        "relic_level": "7",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 83.48",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "C-3PO",
+        "relic_level": "3",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 72.92",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Bastila Shan",
+        "relic_level": "7",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 78.48",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Darth Malgus",
+        "relic_level": "5",
+        "zeta_level": "2",
+        "omicron_level": "3",
+        "level": "85",
+        "completion_percentage": " 75.58",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "The Mandalorian (Beskar Armor)",
+        "relic_level": "4",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 74.25",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Grand Moff Tarkin",
+        "relic_level": "7",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 73.36",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Bastila Shan (Fallen)",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 76.18",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Geonosian Brood Alpha",
+        "relic_level": "3",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 71",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Wampa",
+        "relic_level": "3",
+        "zeta_level": "2",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 72.14",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Chewbacca",
+        "relic_level": "3",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 71.67",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "General Hux",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 75.98",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Rey (Scavenger)",
+        "relic_level": "7",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 77.24",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "CT-5555 \"Fives\"",
+        "relic_level": "3",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 71.06",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "IG-88",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 75.27",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Sith Empire Trooper",
+        "relic_level": "7",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 83.58",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Sith Marauder",
+        "relic_level": "7",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 83.44",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Tech",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 75.1",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Ahsoka Tano (Snips)",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 74.76",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Captain Phasma",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 74.76",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Hunter",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 74.58",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Qui-Gon Jinn",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 74.58",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Hera Syndulla",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 74.45",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Wrecker",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 74.45",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Carth Onasi",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 74.32",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Echo",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 74.32",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Resistance Hero Finn",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 74.32",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Luminara Unduli",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 74.25",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Resistance Hero Poe",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 73.91",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Bo-Katan Kryze",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 73.84",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "First Order Stormtrooper",
+        "relic_level": "5",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 74.44",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Dengar",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 68.89",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Tusken Raider",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 73.17",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Cad Bane",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 74.04",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "CT-7567 \"Rex\"",
+        "relic_level": "3",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 69.09",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "B1 Battle Droid",
+        "relic_level": "4",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 70.5",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Mother Talzin",
+        "relic_level": "3",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 63.99",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Hermit Yoda",
+        "relic_level": "3",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 63.86",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Asajj Ventress",
+        "relic_level": "3",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 63.38",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Merrin",
+        "relic_level": "3",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 63.72",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Embo",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 63.22",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "50R-T",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 63.06",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "T3-M4",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 62.97",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Chief Chirpa",
+        "relic_level": "3",
+        "zeta_level": "1",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 68.38",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "General Veers",
+        "relic_level": "3",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 67.91",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Colonel Starck",
+        "relic_level": "3",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 67.78",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Rebel Officer Leia Organa",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 67.61",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Amilyn Holdo",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 67.48",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "CC-2224 \"Cody\"",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 67.35",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Captain Han Solo",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 67.35",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "IG-100 MagnaGuard",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 67.3",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Finn",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 67.28",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Kit Fisto",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 72.03",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Lando Calrissian",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 72.36",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Poe Dameron",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 71.75",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Plo Koon",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 71.74",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Eeth Koth",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 71.6",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Clone Sergeant - Phase I",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 72.75",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "First Order Officer",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 72.75",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Sith Assassin",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 72.75",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "L3-37",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 66.41",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "First Order TIE Pilot",
+        "relic_level": "3",
+        "zeta_level": "1",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 67.92",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Royal Guard",
+        "relic_level": "3",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 67.65",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "First Order Executioner",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 72.32",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "TIE Fighter Pilot",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 71.89",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "B2 Super Battle Droid",
+        "relic_level": "2",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 65.63",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Darth Traya",
+        "relic_level": "0",
+        "zeta_level": "2",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 60.18",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Director Krennic",
+        "relic_level": "4",
+        "zeta_level": "0",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 64.26",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Ninth Sister",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 58.46",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Resistance Trooper",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 71.18",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Captain Rex",
+        "relic_level": "0",
+        "zeta_level": "2",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 60.59",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Resistance Pilot",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 70.68",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Rose Tico",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 62.63",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Young Lando Calrissian",
+        "relic_level": "5",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 62.63",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Obi-Wan Kenobi (Old Ben)",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 57.56",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Geonosian Spy",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 66.38",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Sun Fac",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 65.94",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Teebo",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 65.8",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Aayla Secura",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 66.16",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Nightsister Zombie",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 65.66",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Paploo",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 61.42",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Fifth Brother",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 55.38",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Sabine Wren",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 61.21",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Jolee Bindo",
+        "relic_level": "0",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 59.82",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Wedge Antilles",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 65.65",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Wicket",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 61.01",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Logray",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 60.94",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Chopper",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 65.03",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Old Daka",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 60.88",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Admiral Ackbar",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 65.36",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Ezra Bridger",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 60.68",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Veteran Smuggler Chewbacca",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 60.67",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Veteran Smuggler Han Solo",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 60.55",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Garazeb \"Zeb\" Orrelios",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 60.54",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Threepio & Chewie",
+        "relic_level": "0",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 60.52",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Kanan Jarrus",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 60.48",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "First Order SF TIE Pilot",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 65.83",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Canderous Ordo",
+        "relic_level": "0",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 60.1",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Ewok Elder",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 65.4",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "The Armorer",
+        "relic_level": "0",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 58.42",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Princess Leia",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 59.44",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Iden Versio",
+        "relic_level": "0",
+        "zeta_level": "1",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 58.18",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Talia",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 63.26",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Biggs Darklighter",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 64.38",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Droideka",
+        "relic_level": "0",
+        "zeta_level": "1",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 58.58",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Nightsister Spirit",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 62.95",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Zaalbar",
+        "relic_level": "0",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 57.34",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Mission Vao",
+        "relic_level": "0",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 57.27",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Death Trooper",
+        "relic_level": "0",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 57.21",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Han Solo",
+        "relic_level": "0",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 57.14",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Jedi Knight Luke Skywalker",
+        "relic_level": "0",
+        "zeta_level": "2",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 51.48",
+        "gear_level": "9",
+        "stars_count": 7
+    },
+    {
+        "name": "Lobot",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 57.88",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Greef Karga",
+        "relic_level": "0",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 49.5",
+        "gear_level": "10",
+        "stars_count": 7
+    },
+    {
+        "name": "Luke Skywalker (Farmboy)",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 51.59",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Nightsister Initiate",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 54.87",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Eighth Brother",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 52.39",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Second Sister",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 52.39",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Boushh (Leia Organa)",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 52.34",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Greedo",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 51.99",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Seventh Sister",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 48.63",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Enfys Nest",
+        "relic_level": "0",
+        "zeta_level": "1",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 53.76",
+        "gear_level": "11",
+        "stars_count": 7
+    },
+    {
+        "name": "Nightsister Acolyte",
+        "relic_level": "3",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 58.24",
+        "gear_level": "13",
+        "stars_count": 7
+    },
+    {
+        "name": "Darth Sion",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 51.61",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Cere Junda",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 47.56",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Tarfful",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 47.56",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Darth Nihilus",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 47.53",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Poggle the Lesser",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 54.02",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Cal Kestis",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 47.17",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "K-2SO",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 50.1",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Cassian Andor",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 49.85",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Savage Opress",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 49.84",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Shoretrooper",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 53.61",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Saw Gerrera",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 45.74",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Range Trooper",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 53.16",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Magmatrooper",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 53.09",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Geonosian Soldier",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 53.02",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Jyn Erso",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 43.69",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Stormtrooper",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 48.53",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Mon Mothma",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 43.65",
+        "gear_level": "10",
+        "stars_count": 7
+    },
+    {
+        "name": "Juhani",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 46.6",
+        "gear_level": "11",
+        "stars_count": 7
+    },
+    {
+        "name": "Jedi Consular",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 50.73",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "The Mandalorian",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 41.89",
+        "gear_level": "10",
+        "stars_count": 7
+    },
+    {
+        "name": "Aurra Sing",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 39.79",
+        "gear_level": "11",
+        "stars_count": 5
+    },
+    {
+        "name": "Bistan",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 47.26",
+        "gear_level": "12",
+        "stars_count": 7
+    },
+    {
+        "name": "Scarif Rebel Pathfinder",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 46.99",
+        "gear_level": "10",
+        "stars_count": 7
+    },
+    {
+        "name": "Cara Dune",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 42.77",
+        "gear_level": "9",
+        "stars_count": 7
+    },
+    {
+        "name": "IG-11",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 42.49",
+        "gear_level": "9",
+        "stars_count": 7
+    },
+    {
+        "name": "Omega",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 39.7",
+        "gear_level": "9",
+        "stars_count": 7
+    },
+    {
+        "name": "Kuiil",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 41.08",
+        "gear_level": "9",
+        "stars_count": 7
+    },
+    {
+        "name": "Mara Jade, The Emperor's Hand",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "1",
+        "level": "85",
+        "completion_percentage": " 38.8",
+        "gear_level": "9",
+        "stars_count": 7
+    },
+    {
+        "name": "Captain Drogan",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 37.97",
+        "gear_level": "11",
+        "stars_count": 6
+    },
+    {
+        "name": "Princess Kneesaa",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 39.37",
+        "gear_level": "10",
+        "stars_count": 6
+    },
+    {
+        "name": "Scout Trooper",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 36.29",
+        "gear_level": "10",
+        "stars_count": 6
+    },
+    {
+        "name": "Dash Rendar",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 36.89",
+        "gear_level": "9",
+        "stars_count": 6
+    },
+    {
+        "name": "Stormtrooper Han",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 36.41",
+        "gear_level": "9",
+        "stars_count": 7
+    },
+    {
+        "name": "Chirrut Îmwe",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 36.46",
+        "gear_level": "8",
+        "stars_count": 7
+    },
+    {
+        "name": "Krrsantan",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 32.56",
+        "gear_level": "8",
+        "stars_count": 5
+    },
+    {
+        "name": "Ewok Scout",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 36.15",
+        "gear_level": "8",
+        "stars_count": 7
+    },
+    {
+        "name": "Snowtrooper",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 36.15",
+        "gear_level": "8",
+        "stars_count": 7
+    },
+    {
+        "name": "Padawan Obi-Wan",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 29.44",
+        "gear_level": "8",
+        "stars_count": 4
+    },
+    {
+        "name": "Gamorrean Guard",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 28.32",
+        "gear_level": "9",
+        "stars_count": 7
+    },
+    {
+        "name": "Mob Enforcer",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 31",
+        "gear_level": "9",
+        "stars_count": 7
+    },
+    {
+        "name": "Clone Wars Chewbacca",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 26.47",
+        "gear_level": "7",
+        "stars_count": 7
+    },
+    {
+        "name": "Dark Trooper",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 26.28",
+        "gear_level": "7",
+        "stars_count": 7
+    },
+    {
+        "name": "Fennec Shand",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 25.63",
+        "gear_level": "8",
+        "stars_count": 7
+    },
+    {
+        "name": "Hoth Rebel Scout",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 27.47",
+        "gear_level": "7",
+        "stars_count": 7
+    },
+    {
+        "name": "IG-86 Sentinel Droid",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 27.47",
+        "gear_level": "7",
+        "stars_count": 7
+    },
+    {
+        "name": "Admiral Raddus",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "85",
+        "completion_percentage": " 18.36",
+        "gear_level": "9",
+        "stars_count": 4
+    },
+    {
+        "name": "Ahsoka Tano (Fulcrum)",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "1",
+        "completion_percentage": " 13.48",
+        "gear_level": "1",
+        "stars_count": 7
+    },
+    {
+        "name": "Ima-Gun Di",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "1",
+        "completion_percentage": " 14.49",
+        "gear_level": "1",
+        "stars_count": 7
+    },
+    {
+        "name": "Jedi Knight Guardian",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "1",
+        "completion_percentage": " 14.75",
+        "gear_level": "1",
+        "stars_count": 7
+    },
+    {
+        "name": "Hoth Rebel Soldier",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "1",
+        "completion_percentage": " 8.43",
+        "gear_level": "1",
+        "stars_count": 6
+    },
+    {
+        "name": "Jawa",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "1",
+        "completion_percentage": " 8.43",
+        "gear_level": "1",
+        "stars_count": 6
+    },
+    {
+        "name": "Kyle Katarn",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "1",
+        "completion_percentage": " 7.75",
+        "gear_level": "1",
+        "stars_count": 6
+    },
+    {
+        "name": "Moff Gideon",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "1",
+        "completion_percentage": " 7.09",
+        "gear_level": "1",
+        "stars_count": 6
+    },
+    {
+        "name": "URoRRuR'R'R",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "1",
+        "completion_percentage": " 8.28",
+        "gear_level": "1",
+        "stars_count": 6
+    },
+    {
+        "name": "Skiff Guard (Lando Calrissian)",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "1",
+        "completion_percentage": " 4.43",
+        "gear_level": "1",
+        "stars_count": 5
+    },
+    {
+        "name": "Zorii Bliss",
+        "relic_level": "0",
+        "zeta_level": "0",
+        "omicron_level": "0",
+        "level": "1",
+        "completion_percentage": " 4.05",
+        "gear_level": "1",
+        "stars_count": 5
+    }
+]
