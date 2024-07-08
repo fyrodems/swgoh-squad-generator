@@ -1,5 +1,65 @@
-node_modules/
-# sketch/
-data/
+# Logs
+logs
+*.log
+npm-debug.log*
 
-reqs.txt
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+
+# Production
+dist/
+build/
+
+# Dependency directories
+node_modules/
+# reqs.txt
+# reqs.md
+
+# Output of ng build
+/dist
+/out-tsc
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+*.sublime-project
+*.sublime-workspace
+*.tmp
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Generated files
+*.g.dart
+*.generated.*
+
+# Webstorm
+.idea/
+*.iml
+.DS_Store
+.editorconfig
+.gitignore
+.ng/
